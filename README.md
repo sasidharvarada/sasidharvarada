@@ -1,179 +1,113 @@
-
+````md
 <h1 align="center">Hi 👋, I'm Varada Sasidhar</h1>
 
 <h3 align="center">
-🚀 Firmware Engineer | RTOS Developer | Edge AI & AI Agent Platforms | Sustainable IoT Products
+Firmware Engineer • Embedded Systems Researcher • Edge AI & Sustainable IoT Developer
 </h3>
 
 <p align="center">
-Building intelligent embedded systems and next-generation IoT products that bridge hardware, Edge AI, intelligent agents, and sustainability.
+Building intelligent embedded products that bridge firmware, AI, and sustainability.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasidharvarada&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sasidharvarada?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sasidharvarada?style=for-the-badge" />
+  <a href="https://github.com/sasidharvarada">
+    <img src="https://komarev.com/ghpvc/?username=sasidharvarada&label=Profile%20Views&style=flat-square" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Master of Science by Research (MS) at **IIIT Hyderabad**
+🎓 MS by Research at **IIIT Hyderabad**
 
-🔬 Embedded Systems Researcher working on:
+🔬 Research Assistant at **Smart City Research Center (SCRC), IIIT Hyderabad**
 
-- Smart Cities & Digital Twins
+🌍 Working on intelligent systems involving:
+
+- Firmware Engineering
+- Real-Time Embedded Systems (RTOS)
+- Edge AI & AI Agents
 - Sustainable IoT Products
+- Smart Cities & Digital Twins
 - Environmental Monitoring Systems
-- Edge AI & Agentic Platforms
-- Real-Time Embedded Systems
-- Intelligent Sensor Networks
-
-🌱 Currently exploring:
-
-- RTOS & Embedded Linux
-- TinyML & Edge AI
-- AI Agents for IoT Systems
-- Hardware Product Development
-- PCB Design & Validation
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Interests
 
-🔭 Building scalable intelligent systems involving:
-
-⚡ Firmware Engineering  
-🤖 AI Agent Platforms  
-🧠 Edge AI Systems  
-📡 Smart IoT Devices  
-🌍 Sustainable Technologies  
-🏙 Smart City Infrastructure  
+- Embedded Firmware Development
+- TinyML & Edge AI
+- AI Agents for IoT Platforms
+- PCB Design & Hardware Validation
+- Intelligent Sensor Networks
+- Low-Power IoT Systems
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css"/>
-</p>
+`C` `C++` `Python` `Embedded C` `Bash`
 
 ### Embedded Platforms
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,flask,postgres,docker"/>
-</p>
-
----
-
-## ⚙ Embedded Skills
-
-```text
-Firmware Development
-RTOS Development
-Embedded Linux
-Device Drivers
-Bootloaders
-PCB Design
-Hardware Validation
-Sensor Integration
-System Testing
-````
+`ESP32` `STM32` `Arduino` `Raspberry Pi`
 
 ### Protocols
+`UART` `SPI` `I2C` `CAN`
+`MQTT` `HTTP` `HTTPS`
+`WebSockets` `OneM2M`
+`GPIO` `PWM` `ADC` `DAC`
 
-```text
-UART • SPI • I2C • CAN
-MQTT • HTTP • HTTPS
-WebSockets • REST APIs
-OneM2M • Modbus
-GPIO • PWM • ADC • DAC
-```
-
----
-
-## 🔬 Research Interests
-
-* Embedded Firmware Engineering
-* Edge AI & TinyML
-* Agentic AI Platforms
-* Smart Cities & Digital Twins
-* Sustainable Sensing Systems
-* Environmental Intelligence
-* IoT Data Platforms
-* Real-Time Systems
+### Tools
+`Linux` `Git` `Docker`
+`PostgreSQL` `Grafana`
+`Flask`
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 Research & Projects
 
-### 🌍 Smart City Living Lab
+🌍 Smart City Living Lab
 
-Development of intelligent sensor networks and urban monitoring platforms.
+📡 Environmental Monitoring Platforms
 
-### 📡 Air Quality Monitoring Platform
+🤖 AI Agent Platforms for IoT Systems
 
-IoT-based environmental sensing using intelligent edge devices.
+⚡ Sustainable IoT Products
 
-### 🤖 AI Agent Platforms for IoT
+🏙 Pollution Trigger Event Detection using IoT + GIS
 
-Building autonomous agentic systems for smart infrastructure.
-
-### ⚡ Sustainable IoT Products
-
-Designing low-power intelligent sensing devices.
-
-### 🛠 Embedded Hardware Platforms
-
-Firmware, hardware validation, and real-time system development.
+🛠 Embedded Hardware Design & Validation
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Researcher at IIIT Hyderabad
-🏅 Smart City & Environmental Research Projects
-🏅 Multiple Embedded & IoT Product Developments
-🏅 Research Publications & Ongoing Work
+🏅 Research Assistant – Smart City Research Center, IIIT Hyderabad
+
+🏅 Multiple Research Publications in IoT & Smart Cities
+
+🏅 Best Technology Award – KETI Hackathon 2023
+
+🏅 User Application Award for Wi-SUN Technology – KETI Hackathon 2023
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/varadasasidhar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+📧 **Email:**  
+varadasasidhar03@gmail.com
 
-<a href="https://twitter.com/sasidharvarada" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
+💼 **LinkedIn:**  
+https://linkedin.com/in/varadasasidhar
 
-<a href="https://instagram.com/crazy_sasidhar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-</p>
-
-📫 **Email:** [varadasasidhar03@gmail.com](mailto:varadasasidhar03@gmail.com)
-
-📄 **Resume:**
-https://drive.google.com/file/d/18HVa2NvwtqOhd5-7G-Jjb6Bl7MqGwm2-/view?usp=sharing
+📄 **Resume:**  
+https://drive.google.com/file/d/18HVa2NvwtqOhd5-7G-Jjb6Bl7MqGwm2-/view
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -187,16 +121,6 @@ https://drive.google.com/file/d/18HVa2NvwtqOhd5-7G-Jjb6Bl7MqGwm2-/view?usp=shari
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sasidharvarada&theme=algolia&row=2&column=4"/>
-</p>
-
----
-
-## ⚡ Philosophy
-
 ```cpp
 while(alive)
 {
@@ -204,10 +128,10 @@ while(alive)
     Build();
     Research();
     Innovate();
-    Repeat();
 }
 ```
 
 <h3 align="center">
-⭐ Building Intelligent Embedded Products with Firmware, RTOS, Edge AI and Sustainable IoT Technologies ⭐
+Building Intelligent Embedded Products with Firmware, Edge AI and Sustainable IoT Technologies.
 </h3>
+````
