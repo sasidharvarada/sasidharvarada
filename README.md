@@ -1,34 +1,214 @@
+````markdown
 <h1 align="center">Hi 👋, I'm Varada Sasidhar</h1>
-<h3 align="center">A passionate engineer from India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasidharvarada&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharvarada" /> </p>
+<h3 align="center">
+🚀 Firmware Engineer | RTOS Developer | Edge AI & AI Agent Platforms | Sustainable IoT Products
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasidharvarada" alt="sasidharvarada" /></a> </p>
-
-- 🔭 I’m currently studying for **Master of Science by Research at IIIT, Hyderabad**
-
-- 🌱 I’m currently learning **Real-time embedded systems**
-
-- 👯 I’m looking to collaborate on **projects related to IoT and environmental research together**
-
-- 💬 Ask me about **IoT , Embedded systems & Aptitude**
-
-- 📫 How to reach me **varadasasidhar03@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/ushasree_mogadali_research_iiit_ac_in/EQWw1LT_nDVLoJL4t2z8l3gB01Vkm1pGQksaqTx4XgWBgg?e=2JSmMq)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sasidharvarada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasidharvarada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varadasasidhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varadasasidhar" height="30" width="40" /></a>
-<a href="https://instagram.com/crazy_sasidhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazy_sasidhar" height="30" width="40" /></a>
+<p align="center">
+Building intelligent embedded systems and next-generation IoT products that bridge hardware, Edge AI, intelligent agents, and sustainability.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasidharvarada&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sasidharvarada?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/sasidharvarada?style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasidharvarada&show_icons=true&locale=en&layout=compact" alt="sasidharvarada" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasidharvarada&show_icons=true&locale=en" alt="sasidharvarada" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharvarada&" alt="sasidharvarada" /></p>
+🎓 Master of Science by Research (MS) at **IIIT Hyderabad**
+
+🔬 Embedded Systems Researcher working on:
+
+- Smart Cities & Digital Twins
+- Sustainable IoT Products
+- Environmental Monitoring Systems
+- Edge AI & Agentic Platforms
+- Real-Time Embedded Systems
+- Intelligent Sensor Networks
+
+🌱 Currently exploring:
+
+- RTOS & Embedded Linux
+- TinyML & Edge AI
+- AI Agents for IoT Systems
+- Hardware Product Development
+- PCB Design & Validation
+
+---
+
+## 🚀 Current Focus
+
+🔭 Building scalable intelligent systems involving:
+
+⚡ Firmware Engineering  
+🤖 AI Agent Platforms  
+🧠 Edge AI Systems  
+📡 Smart IoT Devices  
+🌍 Sustainable Technologies  
+🏙 Smart City Infrastructure  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css"/>
+</p>
+
+### Embedded Platforms
+
+<p>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,flask,postgres,docker"/>
+</p>
+
+---
+
+## ⚙ Embedded Skills
+
+```text
+Firmware Development
+RTOS Development
+Embedded Linux
+Device Drivers
+Bootloaders
+PCB Design
+Hardware Validation
+Sensor Integration
+System Testing
+````
+
+### Protocols
+
+```text
+UART • SPI • I2C • CAN
+MQTT • HTTP • HTTPS
+WebSockets • REST APIs
+OneM2M • Modbus
+GPIO • PWM • ADC • DAC
+```
+
+---
+
+## 🔬 Research Interests
+
+* Embedded Firmware Engineering
+* Edge AI & TinyML
+* Agentic AI Platforms
+* Smart Cities & Digital Twins
+* Sustainable Sensing Systems
+* Environmental Intelligence
+* IoT Data Platforms
+* Real-Time Systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 Smart City Living Lab
+
+Development of intelligent sensor networks and urban monitoring platforms.
+
+### 📡 Air Quality Monitoring Platform
+
+IoT-based environmental sensing using intelligent edge devices.
+
+### 🤖 AI Agent Platforms for IoT
+
+Building autonomous agentic systems for smart infrastructure.
+
+### ⚡ Sustainable IoT Products
+
+Designing low-power intelligent sensing devices.
+
+### 🛠 Embedded Hardware Platforms
+
+Firmware, hardware validation, and real-time system development.
+
+---
+
+## 🏆 Achievements
+
+🏅 Researcher at IIIT Hyderabad
+🏅 Smart City & Environmental Research Projects
+🏅 Multiple Embedded & IoT Product Developments
+🏅 Research Publications & Ongoing Work
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/varadasasidhar" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://twitter.com/sasidharvarada" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="https://instagram.com/crazy_sasidhar" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+📫 **Email:** [varadasasidhar03@gmail.com](mailto:varadasasidhar03@gmail.com)
+
+📄 **Resume:**
+https://drive.google.com/file/d/18HVa2NvwtqOhd5-7G-Jjb6Bl7MqGwm2-/view?usp=sharing
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sasidharvarada&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharvarada&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasidharvarada&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sasidharvarada&theme=algolia&row=2&column=4"/>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Research();
+    Innovate();
+    Repeat();
+}
+```
+
+<h3 align="center">
+⭐ Building Intelligent Embedded Products with Firmware, RTOS, Edge AI and Sustainable IoT Technologies ⭐
+</h3>
+```
