@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Varada Sasidhar</h1>
 
 <h3 align="center">
@@ -134,4 +133,3 @@ while(alive)
 <h3 align="center">
 Building Intelligent Embedded Products with Firmware, Edge AI and Sustainable IoT Technologies.
 </h3>
-````
